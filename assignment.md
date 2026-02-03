@@ -4,4 +4,4 @@
 - this is something else
 - one more
 
-  ** special text **
+  *special text*
