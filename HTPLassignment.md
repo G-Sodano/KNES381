@@ -3,10 +3,12 @@
 ## Table of contents
 
 - [Introduction](#introduction)
-- [Scientific Notation](#scientific-notation)
+- [VO<sub>2</sub> Benefits](#VO<sub>2</sub>-benefits)
 - [Weightlifting Benefits Flowcart](#weightlifting-benefits-flowcart)
 - [Link](#link)
-## Image
+
+## Introduction
+
 <table>
   <tr>
     <td>
