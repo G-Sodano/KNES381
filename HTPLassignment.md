@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [VO<sub>2</sub> Benefits](#VO<sub>2</sub>-benefits)
+- [VO2 Benefits](#VO2-benefits)
 - [Weightlifting Benefits Flowchart](#weightlifting-benefits-flowchart)
 - [Link](#link)
 
@@ -21,7 +21,7 @@
   </tr>
 </table>
  
-## VO<sub>2</sub> Benefits
+## VO2 Benefits
  
 
 Weightlifting improves muscle strength and movement efficiency, which reduces the energy cost of exercise and supports higher oxygen utilization. Over time, these adaptations can contribute to increases in V̇O₂
