@@ -25,11 +25,12 @@
 [Go to my other file](./assignment.md)
  
 ## Mermaid Diagram
+
 ```mermaid
-Flowcart TD
-  A[Edit HTPLassignment.md] --> B[git add]
-  B --> C[git commit]
-  C --> D[git push]
-  D --> E[View on GitHub]
+flowchart TD
+    A[Edit HTPLassignment.md] --> B[git add]
+    B --> C[git commit]
+    C --> D[git push]
+    D --> E[View on GitHub]
 ```
 
