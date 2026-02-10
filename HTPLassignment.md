@@ -10,4 +10,5 @@
   </tr>
 </table>
 
-[link to another file] (assignment.md) 
+[Go to my other file](./assignment.md)
+ 
