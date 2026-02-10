@@ -4,9 +4,9 @@
 
 - [Image](#image)
 - [Link](#link)
--[Scientific Notation](#scientific-notation)
+- [Scientific Notation](#scientific-notation)
 
-## Imgae
+## Image
 
 <table>
   <tr>
