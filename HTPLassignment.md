@@ -5,6 +5,7 @@
 - [Image](#image)
 - [Link](#link)
 - [Scientific Notation](#scientific-notation)
+- [Mermaid Diagram](#mermaid-diagram)
 
 ## Image
 
@@ -23,6 +24,12 @@
 
 [Go to my other file](./assignment.md)
  
-## Scientific Notation
+## Mermaid Diagram
+```mermaid
+Diagram
+  A[Edit HTPLassignment.md] --> B[git add]
+  B --> C[git commit]
+  C --> D[git push]
+  D --> E[View on GitHub]
+```
 
-VO<sub>2</sub>
