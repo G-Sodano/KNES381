@@ -24,6 +24,10 @@
 
 [Go to my other file](./assignment.md)
  
+## Scientific Notation
+
+VO<sub>2</sub>
+
 ## Mermaid Diagram
 
 ```mermaid
