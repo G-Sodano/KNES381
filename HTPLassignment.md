@@ -20,7 +20,7 @@
  
 ## Benefits relating to VO<sub>2</sub> 
 
-Regular resistance training improves muscular strength and movement efficiency, which reduces the energy cost of exercise and supports higher oxygen utilization. Over time, these adaptations can contribute to increases in  V̇O₂
+Weightlifting improves muscle strength and movement efficiency, which reduces the energy cost of exercise and supports higher oxygen utilization. Over time, these adaptations can contribute to increases in V̇O₂
 
 ## Weightlifting Benefits Flowchart
 
@@ -29,21 +29,25 @@ flowchart TD
     A[Resistance Training / Weightlifting] --> B[Physiological Benefits]
     A --> C[Psychological Benefits]
 
-    B --> B1[↑ Muscular strength & power]
-    B --> B2[↑ Bone density]
-    B --> B3[↑ Metabolic health]
+    %% Physiological pathway
+    B --> B1[Increased muscular strength and power]
+    B --> B2[Increased bone density]
+    B --> B3[Improved metabolic health]
     B --> B4[Improved aerobic performance]
-    B4 --> B5[VO2 and V̇O2 can improve over time]
+    B4 --> B5[Higher VO2]
 
-    C --> C1[↓ Stress & anxiety]
-    C --> C2[↑ Mood and confidence]
-    C --> C3[↑ Sleep quality]
-    C --> C4[↑ Motivation & self-efficacy]
+    %% Psychological pathway
+    C --> C1[Reduced stress and anxiety]
+    C --> C2[Improved mood and confidence]
+    C --> C3[Better sleep quality]
+    C --> C4[Increased motivation and self-efficacy]
 
-    B3 --> D[Better daily function & health]
+    %% Combined outcome
+    B3 --> D[Better daily function and health]
     C2 --> D
     D --> E[Supports long-term wellbeing]
 ```
+
 
 ## Link
     
