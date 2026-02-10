@@ -26,7 +26,7 @@
  
 ## Mermaid Diagram
 ```mermaid
-Diagram
+Flowcart TD
   A[Edit HTPLassignment.md] --> B[git add]
   B --> C[git commit]
   C --> D[git push]
