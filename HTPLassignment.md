@@ -28,7 +28,10 @@
 
 VO<sub>2</sub>
 
-## Mermaid Diagram
+adding the dot to make: V̇O₂
+
+
+## 
 
 ```mermaid
 flowchart TD
