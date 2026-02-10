@@ -13,7 +13,7 @@
       <img src="images/emoji.jpg" width="200">
     </td>
     <td>
-      Weightlifting isnt only benefical for wanting to look good but it is also food for a bunch of physiological and psychological benefits
+      Weightlifting isnt only benefical for wanting to look good, but it is also food for a bunch of physiological and psychological benefits!
     </td>
   </tr>
 </table>
@@ -47,5 +47,5 @@ flowchart TD
 
 ## Link
     
-[Currently learning Gitup Go to my other file i've done in an earlier class](./assignment.md)
+[Currently learning Github! Go to my other file i've done in an earlier class](./assignment.md)
 
