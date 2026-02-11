@@ -1,11 +1,12 @@
 <h1 align="center">Benefits of Weightlifting</h1>
 
+
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [VO2 Benefits](#VO2-benefits)
 - [Weightlifting Benefits Flowchart](#weightlifting-benefits-flowchart)
-- [Link](#link)
+- [Other Projects](#other-projects)
 
 
 ## Introduction
@@ -31,6 +32,7 @@ Weightlifting improves muscle strength and movement efficiency, which reduces th
 - Increased Longevity
 - Daily activies are less exhausting
 - So much more!
+
 
 ## Weightlifting Benefits Flowchart
 
@@ -60,7 +62,7 @@ flowchart TD
 ```
 
 
-## Link
+## Other Projects
     
 [Currently learning Github! Go to my other file i've done in an earlier class](./assignment.md)
 
