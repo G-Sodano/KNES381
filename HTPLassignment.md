@@ -26,7 +26,7 @@
 
 Weightlifting improves muscle strength and movement efficiency, which reduces the energy cost of exercise and supports higher oxygen utilization. Over time, these adaptations can contribute to increases in V̇O₂
 
-### importance of  VO<sub>2</sub>
+### Importance of  VO<sub>2</sub>
 - Decreased risk of chronic diseases
 - Increased Longevity
 - Daily activies are less exhausting
