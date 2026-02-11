@@ -26,8 +26,15 @@
 
 Weightlifting improves muscle strength and movement efficiency, which reduces the energy cost of exercise and supports higher oxygen utilization. Over time, these adaptations can contribute to increases in V̇O₂
 
+### importance of  VO<sub>2</sub>
+- Decreased risk of chronic diseases
+- Increased Longevity
+- Daily activies are less exhausting
+- So much more!
+
 ## Weightlifting Benefits Flowchart
 
+There are more benefits then just VO<sub>2</sub>! Below is a flowchart going over both physiological and pyschological benefits:
 ```mermaid
 flowchart TD
     A[Resistance Training / Weightlifting] --> B[Physiological Benefits]
